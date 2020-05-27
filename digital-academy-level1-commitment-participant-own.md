@@ -13,7 +13,7 @@ C'est pourquoi l'équipe de l'académie demande au participant de s'engager à p
 
 Dans ce document, le participant définit ses objectifs et aspirations pour l'académie, et identifie les possibilités de pratique. De plus, il signifie son engagement en ajoutant son nom dans le bloc de signature à la fin de l'accord.
 
-## Objectifs et aspirations pour cette académies
+## Objectifs et aspirations pour cette académie
 
 Veuillez fournir quelques brèves déclarations pour résumer les compétences que vous souhaitez améliorer et les nouvelles connaissances que vous espérez acquérir en participant à cette académie.
 
