@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Une première condition nécessaire de réussite tant pour le participant que pour le groupe formé concerne l'assuidité et la participation active aux cours et activités synchrones et asynchrones, individuelles et de groupe. Dans le cadre de cette académie numérisée, nous insistons donc sur l'importance de l'engagement du participant et de son responsable dans le suivi du programme de formation.
+Une première condition nécessaire de réussite tant pour le participant que pour le groupe formé concerne l'assiduité et la participation active aux cours et activités synchrones et asynchrones, individuelles et de groupe. Dans le cadre de cette académie numérisée, nous insistons donc sur l'importance de l'engagement du participant et de son responsable dans le suivi du programme de formation.
 
 Une deuxième condition nécessaire de réussite réside dans le fait que la participation à cette académie s'inscrit dans un cadre professionnel qui favorise la mise en pratique des connaissances et compétences acquises durant la formation.
 
