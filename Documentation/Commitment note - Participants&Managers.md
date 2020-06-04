@@ -1,4 +1,4 @@
-COMMITMENT NOTE (Participants and Managers)
+# COMMITMENT NOTE (Participants and Managers)
 
 Introduction
 In our very first initiative of an online academy we feel commitment from the participant  is primary and non negotiable. The first 
