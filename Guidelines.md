@@ -81,8 +81,8 @@ Quelle est la pire chose qui pourrait arriver ? / What's the worst thing that co
 * In the academy many side meetings are taking place side events during lunch breaks, before, in between sessions.
 
 * Connectivity and time zones
-  - Connectivity: it seems like it more a question of affordability
-  - Time zones: asynchronous
+  * Connectivity: it seems like it more a question of affordability
+  * Time zones: asynchronous
 
 ## Méthodologie / Methodology
 
