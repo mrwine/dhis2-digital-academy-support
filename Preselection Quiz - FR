@@ -1,0 +1,137 @@
+LE CAS D’UTILISATION (LES 1000 JOURS DE GRANDE VULNÉRABILITÉ) COUVRE LA PÉRIODE
+A) de la naissance de l’enfant à ses 3 ans
+B) de la conception de l’enfant à ses 2 ans
+C) de la première visite prénatale de la mère à sa dernière visite postnatale
+
+(ANSWER: B)
+
+LE VISUALISEUR DE DONNÉES DE DHIS2 EST PRINCIPALEMENT UTILISÉ POUR
+A) visualiser des données à l'aide de diagrammes
+B) gérer l'aspect visuel des tableaux de bord
+C) modifier l'apparence de l'application DHIS2
+
+(ANSWER: A)
+
+LES UNITÉS D'ORGANISATION REPRÉSENTENT 
+A) L'emplacement géographique des données
+B) Les valeurs calculés des données
+C) Les projets du programme de santé
+
+(ANSWER: A)
+
+AVEC LA COUCHE FRONTIÈRES DU SIG, VOUS POUVEZ
+A) analyser les données par indicateur
+B) analyser les données par élément de données
+C) visualiser les frontières des unités d'organisation
+D) toutes les réponses ci-dessus
+
+(ANSWER: C)
+
+AVEC UNE COUCHE THÉMATIQUE, VOUS POUVEZ CRÉER DES CARTES AFFICHANT
+A) plusieurs périodes
+B) plusieurs éléments de données
+C) plusieurs taux de déclaration
+D) Aucune des réponses ci-dessus
+
+(ANSWER: D)
+
+J'AI CRÉE UN TABLEAU CROISÉ DYNAMIQUE AVEC LES DIMENSIONS SUIVANTES : - GROUPE D'ÉLÉMENTS DE DONNÉES: ACCOUCHEMENT - 
+ÉLÉMENT DE DONNÉES : NAISSANCES VIVANTES - PÉRIODE : 4 DERNIERS TRIMESTRES -
+UNITÉS D'ORGANISATION : DISTRICTS DE TRAININGLANDDANS LA RÉALITÉ, 
+UN NOM D'UTILISATEUR NE SERA PROBABLEMENT PAS NÉCESSAIRE POUR IDENTIFIER UN FAVORI. PARMI LES PROPOSITIONS SUIVANTES, 
+
+LESQUELLES CONSTITUENT UN BON CHOIX DE NOM POUR UN FAVORI ?
+A) Naissances vivantes
+B) Accouchements à Trainingland, 4 derniers trimestres
+C) Naissances vivantes par districts à Trainingland, 4 derniers trimestres
+D) Accouchements Naissances vivantes, districts, 4 derniers trimestres
+(ANSWER: D)
+
+LE PARTAGE EST GÉNÉRALEMENT CONTRÔLÉ PAR :
+A) la sélection d'utilisateurs donnés avec qui les objets sont partagés
+B) la sélection des groupes d'utilisateurs avec qui les objets sont partagés
+C) l'envoi des éléments par message dans DHIS2
+D) toutes les réponses ci-dessus
+
+(ANSWER: B)
+
+UTILISER LE RETOUR D'INFORMATION DANS DHIS2 :
+A) l'équipe centrale peut gérer les questions, leur affecter un niveau de priorité, et informer les utilisateurs de leur statut
+B) les messages peuvent être envoyés à d'autres utilisateurs dans DHIS2
+C) Les interprétations des différentes analyses peuvent être partagées.
+
+(ANSWER: A)
+
+JE VEUX EFFECTUER UNE ANALYSE COMPARANT L'ENSEMBLE DES ÉLÉMENTS SUIVANTS : - TOUS LES ÉTABLISSEMENTS DANS MA HIÉRARCHIE D'UNITÉS 
+D'ORGANISATION - LES DONNÉES RELATIVES AUX 12 DERNIERS MOIS - DEUX ÉLÉMENTS DE DONNÉES ET UN INDICATEURQUEL(S) OUTIL(S) 
+DEVRAIS-JE UTILISER POUR AFFICHER CES INFORMATIONS ?
+A) ce type d'analyse n'est pas possible dans DHIS2
+B) Visualiseur de données
+C) Tableau croisé dynamique
+D) SIG
+
+(ANSWER: C)
+
+
+SI LA DATE D'AUJOURD'HUI EST LE 2 AVRIL 2017, ET QUE JE SÉLECTIONNE UNE PÉRIODE RELATIVE CORRESPONDANT AUX 5 DERNIÈRES ANNÉES, QUELLE 
+SERA LA PÉRIODE CHOISIE ?
+A) 2011-2016
+B) 2012-2016
+C) 2013-2017
+
+(ANSWER: B)
+
+AVEC LES TABLEAUX DE BORD DHIS2 VOUS POUVEZ :
+A) créer plusieurs tableaux de bord
+B) ajouter des favoris à partir des applis d'analyse
+C) partager des tableaux de bord avec des groupes d'utilisateurs
+D) toutes les réponses ci-dessus
+
+(ANSWER: D)
+
+QUEL EST LE PRINCIPAL RÔLE(S) DES TABLEAUX DE BORD ?
+A) faciliter l'accès aux données
+B) faciliter la communication des données
+C) aider à la prise de décisions
+D) faciliter la consultation des données sous plusieurs angles dans un seul endroit
+E) toutes les réponses ci-dessus
+
+(ANSWER: E)
+
+LA FONCTION PARTAGE DANS DHIS2
+A) est utilisée pour définir quels favoris peuvent être consultés et par qui
+B) peut servir à partager des tableaux de bord avec d'autres utilisateurs
+C) peut servir à partager des interprétations avec d'autres utilisateurs
+D) toutes les réponses ci-dessus
+
+(ANSWER: D)
+
+LES TABLEAUX CROISÉS DYNAMIQUES PEUVENT ÊTRE UTILISÉS POUR ANALYSER VOS DONNÉES :
+A) par indicateur, élément de données et taux de déclaration
+B) par unité d'organisation
+C) par période
+D) toutes les réponses ci-dessus
+
+(ANSWER: D)
+
+DANS DHIS2, LES TABLEAUX CROISÉS DYNAMIQUES SONT PRINCIPALEMENT UTILISÉS POUR :
+A) visualiser des données à l'aide de diagrammes
+B) analyser des données dans des tableaux
+C) créer des rapports standard prêts à l'emploi pour vérification
+
+(ANSWER: B)
+
+LE PRODUIT DE TABLEAUX CROISÉS DYNAMIQUES PEUT ÊTRE :
+A) enregistré en tant que favori
+B) téléchargé pour une utilisation hors ligne
+C) complété par l'ajout de la hiérarchie
+D) toutes les réponses ci-dessus
+
+(ANSWER: D)
+
+QUE VOUS PERMET DE FAIRE LE RAPPORT D'ENSEMBLE DE DONNÉES?
+A) Passer en revue les données telles qu'elles apparaissent lors de leur saisie et les mettre à jour ou les modifier
+B) Passer en revue les données telles qu'elles apparaissent lors de leur saisie sans pouvoir les modifier
+C) présenter les données sous forme de rapport prêt à l'emploi, défini par l'utilisateur
+
+(ANSWER: B)
