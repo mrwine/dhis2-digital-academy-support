@@ -43,14 +43,14 @@ c)Enabled and participanst can send messages that all the attendees and facilita
 
 ## Openedx
 
-[ ] Beginning and ending date of the course is set - up 
-[ ] Time set up for the course to be visible for participants
-[ ] Access to the course on registration
-[ ] Participants are pre-registered manually on OpenedX: email addresses to be included
-[ ] Send a registration message to the participants with the link of the  course. - Those needing to create an account would need to create one
-[ ] Participants would need to know what time to connect on OpenedX
-[ ] UiO gave you access to DHIS2 YouTube channel to upload all the videos 
-[ ] Exercices in downloadable format ready
+- [ ] Beginning and ending date of the course is set - up 
+- [ ] Time set up for the course to be visible for participants
+- [ ] Access to the course on registration
+- [ ] Participants are pre-registered manually on OpenedX: email addresses to be included
+- [ ] Send a registration message to the participants with the link of the  course. - Those needing to create an account would need to create one
+- [ ] Participants would need to know what time to connect on OpenedX
+- [ ] UiO gave you access to DHIS2 YouTube channel to upload all the videos 
+- [ ] Exercices in downloadable format ready
 
 
 
