@@ -26,7 +26,7 @@ b) Are all the co-hosts able to share their screens?
 * Will you need break-out rooms?
 a) Do you have the participants list per break-out room?
 
-* Zoom set up
+## Zoom set up
 - Waiting room is enabled
 - Participants cannot unmute themselves
 - Chat discussion. several options:
