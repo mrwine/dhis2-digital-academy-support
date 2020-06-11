@@ -1,9 +1,9 @@
-# Check-list for zoom
+# Check-list for Zoom and OpenedX
 
-## Facilitators team profile set up on Zoom
+## Facilitators' team profile set up on Zoom
 1. Differences between the different roles: https://support.zoom.us/hc/en-us/articles/360040324512-Roles-in-a-meeting
   a. Who is the main host
-  b. Who are the co-host
+  b. Who are the co-hosts
   c. Will you need any participants to share their screen at some point? If yes, then the easier way is to temporarily set up this 
 participant as a co-host 
 
