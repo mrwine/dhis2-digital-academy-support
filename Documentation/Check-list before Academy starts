@@ -34,15 +34,17 @@ c)Enabled and participanst can send messages so that all the attendees and facil
 * Recording
 - Is the host ready to record the session?
 
-* Microphone scheck-up
+* Microphone check-up
 - Are the host and co-hosts microphones working well?
 
 Openedx
 - Beginning and ending date of the course is set - up 
 - Time set up for the course to be visible for participants
-- Participants know what time to connect on OpenedX
-- 
-
+- Access to the course on registration
+- Participants are pre-registered manually on OpenedX: email addresses to be included
+- Send a registration message to the participants with the link of the  course
+- Those needing to create an account would need to create one
+- Participants would need to know what time to connect on OpenedX
 
 
 
