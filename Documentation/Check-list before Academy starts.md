@@ -20,8 +20,7 @@ a) Is the host able to share his screen?
 b) Are all the co-hosts able to share their screens?
 
 
-* Participants list
-Hence you will be able to see who is connected
+* Participants list to be able to see who is connected
 
 
 * Will you need break-out rooms?
