@@ -40,6 +40,8 @@ c)Enabled and participanst can send messages that all the attendees and facilita
 * Microphone check-up
 - Are the host and co-hosts microphones working well?
 
+Full guidelines on Zoom available on: https://docs.google.com/document/d/1d-BbgvAj5zOnLfWR2d_9_qyxMf2sseOIcXmkHDSR0hU/edit?usp=sharing
+
 ## Openedx
 
 - [ ] Beginning and ending date of the course is set - up 
@@ -50,6 +52,4 @@ c)Enabled and participanst can send messages that all the attendees and facilita
 - [ ] Participants would need to know what time to connect on OpenedX
 - [ ] UiO gave you access to DHIS2 YouTube channel to upload all the videos 
 - [ ] Exercices in downloadable format ready
-
-
 
