@@ -40,6 +40,13 @@ c)Enabled and participanst can send messages that all the attendees and facilita
 * Microphone check-up
 - Are the host and co-hosts microphones working well?
 
+* Other details
+- No background noise
+- Being isolated in a room
+- Preferably having a headset
+- Make sure to talk to the right participants
+
+
 Full guidelines on Zoom available on: https://docs.google.com/document/d/1d-BbgvAj5zOnLfWR2d_9_qyxMf2sseOIcXmkHDSR0hU/edit?usp=sharing
 
 ## Openedx
