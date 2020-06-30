@@ -40,7 +40,7 @@ c)Enabled and participanst can send messages that all the attendees and facilita
 * Microphone check-up
 - Are the host and co-hosts microphones working well?
 
-* Other details
+## Other details
 - No background noise
 - Being isolated in a room
 - Preferably having a headset
